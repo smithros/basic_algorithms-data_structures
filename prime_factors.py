@@ -14,4 +14,4 @@ def prime_factors(number):
 
 if __name__ == "__main__":
     n = 22
-    print(prime_factors(n))
+    print(prime_factors(n))  # 2, 11
